@@ -4,6 +4,6 @@
 
 ## You may find there:
 
-        * Windows and Microsoft Office activation scripts
+- Windows and Microsoft Office activation scripts
 
 \*\* All sources are featured with links to their original sources
