@@ -6,4 +6,4 @@
 
 - Windows and Microsoft Office activation scripts
 
-\*\* All sources are featured with links to their original sources
+* All sources are featured with links to their original sources
